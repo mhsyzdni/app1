@@ -1,4 +1,4 @@
 # README
 
-modified on 29 May
-add Table & Model(costructor)
+modified on 29 May at 7:47PM
+add constraint for table attributes
