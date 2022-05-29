@@ -1,4 +1,4 @@
 # README
 
-modified on 29 May at 7:47PM
-add constraint for table attributes
+modified on 29 May at 8:38PM
+add resources and show action
